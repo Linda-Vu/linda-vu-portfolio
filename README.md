@@ -1,2 +1,3 @@
 # linda-vu-portfolio
-portfolio
+
+Linda Vu portfolio
